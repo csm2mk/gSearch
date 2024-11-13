@@ -28,7 +28,7 @@
             <artifactId>webdrivermanager</artifactId>
             <version>5.9.2</version>
         </dependency>
-    </dependencies>
 
+    </dependencies>
 
 </project>
